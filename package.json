@@ -1,0 +1,22 @@
+{
+  "name": "fizz-buzz",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jasmine spec/fizzBuzz-spec.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mazma1/fizzBuzz.git"
+  },
+  "author": "Mary Mazi",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mazma1/fizzBuzz/issues"
+  },
+  "homepage": "https://github.com/mazma1/fizzBuzz#readme",
+  "devDependencies": {
+    "jasmine": "^2.6.0"
+  }
+}
